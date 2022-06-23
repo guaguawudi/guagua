@@ -1,0 +1,60 @@
+[33mcommit 779cb8a68b3b0b41684cdee5828570b86a35202f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 6562083 ef76695
+Author: guagua <yajingguo@163.com>
+Date:   Thu Jun 23 15:58:56 2022 +0800
+
+    conflict fixed
+
+[33mcommit 6562083849b654909843dbfcad42a52888e93659[m
+Author: guagua <yajingguo@163.com>
+Date:   Thu Jun 23 15:54:19 2022 +0800
+
+    master分支上提交
+
+[33mcommit ef766954bec8a2b1ff31c80ea1eab769eb07c868[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: guagua <yajingguo@163.com>
+Date:   Thu Jun 23 15:50:20 2022 +0800
+
+    分支上提交修改
+
+[33mcommit 17f8744cb54decf5eae7aeb594440d9294f5803f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: guagua <yajingguo@163.com>
+Date:   Thu Jun 23 14:33:02 2022 +0800
+
+    remove LICENSE.txt
+
+[33mcommit 421dd66e95cda5b2b824706c0a0c2a91e2a7b3bc[m
+Author: guagua <yajingguo@163.com>
+Date:   Thu Jun 23 14:15:32 2022 +0800
+
+    提交修改2
+
+[33mcommit 6749e1fd8e39030428074fd496f33dd3e8affa90[m
+Author: guagua <yajingguo@163.com>
+Date:   Thu Jun 23 14:11:01 2022 +0800
+
+    提交修改1
+
+[33mcommit a910de486860e799b07f10306d5214fe3fd694ca[m
+Author: guagua <yajingguo@163.com>
+Date:   Thu Jun 23 14:05:39 2022 +0800
+
+    提交三个修改的文档
+
+[33mcommit 93f881d3a6e152957331ec05e5b7e5092b9c9cf9[m
+Author: guagua <yajingguo@163.com>
+Date:   Thu Jun 23 13:33:56 2022 +0800
+
+    file2 is modified
+
+[33mcommit 41fc0126b05d703b8f844d3215d39672edc437b8[m
+Author: guagua <yajingguo@163.com>
+Date:   Thu Jun 23 13:29:17 2022 +0800
+
+    提交修改file1
+
+[33mcommit 8da7eed776d6c18e44e3807489343bc9d2c0f69b[m
+Author: guagua <yajingguo@163.com>
+Date:   Thu Jun 23 13:23:04 2022 +0800
+
+    wrote a file1 file
