@@ -1,2 +1,2 @@
-这是一个神奇的地方
-大家都好可爱！
+Git is a distributed version control system.
+Git is free software.
